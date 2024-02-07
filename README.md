@@ -10,5 +10,5 @@ Very little setup required:
 
 2. Select "Download All My Data" on Street Manager and open the "Audit" export spreadsheet in the created zip file.  Copy and paste the content, from the Audit spreadsheet, onto the tab, on the Coordination spreadsheet, labelled "Audit Export", from cell A1.  Subsequent exports can be added in the last free row, from the A column, if wishing to add more data to the sheet. e.g. if the next free column is A374, then copy and paste the new data from cell A374.
 
-3. This will auto populate both the "Monthly (Stats)" and "Weekly (Stats)" tabs.  Weekly stats attempt to separate statistics by weeks (Monday - Sunday), should the month begin mid-week, or later week, week 1 will take this as the first day and attempt to end the week on the next Sunday.
+3. This will auto populate both the "Monthly (Stats)" and "Weekly (Stats)" tabs.  Change the Month and Year to an appropriate date for the data downloaded on the "Monthly (Stats)" page.  Weekly stats attempt to separate statistics by weeks (Monday - Sunday), should the month begin mid-week, or later week, week 1 will take this as the first day and attempt to end the week on the next Sunday.
 
