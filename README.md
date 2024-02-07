@@ -8,7 +8,7 @@ Very little setup required:
 
 1. Amend the Names and associated Emails in the "Config" tab.  This must be the email used for permit assessment within Street Manager, emails are often not the same via API software.
 
-2. Select "Download All My Data" on Street Manager and open the "Audit" export spreadsheet.  Copy and paste the content onto the tab labelled "Audit Export", from cell A1.  further exports can be added in the last free row, from the A column. e.g. if the next free column is A374, then copy and paste the new data from cell A374.
+2. Select "Download All My Data" on Street Manager and open the "Audit" export spreadsheet in the created zip file.  Copy and paste the content, from the Audit spreadsheet, onto the tab, on the Coordination spreadsheet, labelled "Audit Export", from cell A1.  Subsequent exports can be added in the last free row, from the A column, if wishing to add more data to the sheet. e.g. if the next free column is A374, then copy and paste the new data from cell A374.
 
 3. This will auto populate both the "Monthly (Stats)" and "Weekly (Stats)" tabs.  Weekly stats attempt to separate statistics by weeks (Monday - Sunday), should the month begin mid-week, or later week, week 1 will take this as the first day and attempt to end the week on the next Sunday.
 
